@@ -15,12 +15,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- [GeoControl API](https://github.com/GiovanniRusso2002/GeoControl-API) – RESTful API for managing geographic resources, Node.js + Express + Docker  
-- [Project Name](link) – Short description  
-- [Project Name](link) – Short description
-
----
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/giovanni-russo-669302210/)  
