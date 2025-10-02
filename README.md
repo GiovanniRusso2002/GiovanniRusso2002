@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Giovanni Russo 👋
 
-<!--
-**GiovanniRusso2002/GiovanniRusso2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Engineering @ Politecnico di Torino | Erasmus @ EURECOM  
+🌐 Focus: Cloud Computing, Computer Networks & Software Engineering  
+💻 Passionate about building scalable APIs, containerized apps, and data-driven solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** C, Java, Python, SQL, JavaScript, TypeScript  
+- **Frameworks:** Node.js, Express, TypeORM  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
+- **Tools:** Docker, Git, LaTeX  
+- **OS:** Linux, Windows
+
+---
+
+### 🚀 Featured Projects
+- [GeoControl API](https://github.com/GiovanniRusso2002/GeoControl-API) – RESTful API for managing geographic resources, Node.js + Express + Docker  
+- [Project Name](link) – Short description  
+- [Project Name](link) – Short description
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/giovanni-russo-669302210/)  
+- Email: s343424@studenti.polito.it
+
+---
+
+### 📊 GitHub Stats
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniRusso2002&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniRusso2002&layout=compact)
