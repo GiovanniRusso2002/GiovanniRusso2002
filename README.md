@@ -29,7 +29,7 @@
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/giovanni-russo-669302210/)  
-- Email: giovanni.russo@eurecom.fr
+- Email: giovanni2018russo@gmail.com
 
 ---
 
