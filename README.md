@@ -2,7 +2,18 @@
 
 🎓 MSc Computer Engineering @ Politecnico di Torino | Erasmus @ EURECOM  
 🌐 Focus: Cloud Computing, Computer Networks & Software Engineering  
-💻 Passionate about building scalable APIs, containerized apps, and data-driven solutions
+💻 Passionate about building scalable APIs, containerized apps and data-driven solutions
+
+
+---
+
+### 🚀 Featured Project Contribution
+
+- **[netgroup-polito/CrownLabs](https://github.com/netgroup-polito/CrownLabs)**
+  - **Role: Contributor**
+  - A Politecnico di Torino project for creating Kubernetes-based remote laboratories.
+  - As part of the **“VMs Public Exposure in CrownLabs”** research project, I helped engineer a solution to securely expose internal VM services to the public internet.
+  - This new capability was built using **Kubernetes**, **MetalLB**, **GraphQL**, and a **Go-based operator**, enabling users to host public web apps, collaborative research projects, and IoT services.
 
 ---
 
@@ -18,7 +29,7 @@
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/giovanni-russo-669302210/)  
-- Email: s343424@studenti.polito.it
+- Email: giovanni.russo@eurecom.fr
 
 ---
 
