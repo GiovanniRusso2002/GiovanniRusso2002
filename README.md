@@ -18,10 +18,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Java, Python, SQL, JavaScript, TypeScript  
-- **Frameworks:** Node.js, Express, TypeORM  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-- **Tools:** Docker, Git, LaTeX  
+- **Languages:** C, Rust, Java, Python, SQL, JavaScript, TypeScript  
+- **Frameworks:** Node.js, Express, TypeORM, React 
+- **Databases:** MySQL, MongoDB, SQLite  
+- **Tools:** Docker, Git, Kubernetes, Helm 
 - **OS:** Linux, Windows
 
 ---
