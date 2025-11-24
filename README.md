@@ -1,7 +1,6 @@
 # Hi, I'm Giovanni Russo 👋
 
 🎓 Double Degree MSc in Computer Engineering @ Politecnico di Torino & EURECOM
-
 🌐 Focus: Cloud Computing, Computer Networks & Software Engineering  
 💻 Passionate about building scalable APIs, containerized apps and data-driven solutions
 
