@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Rust, Java, Python, SQL, JavaScript, TypeScript  
+- **Languages:** C, Rust, Java, Python, SQL, JavaScript, TypeScript, PHP
 - **Frameworks:** Node.js, Express, TypeORM, React 
 - **Databases:** MySQL, MongoDB, SQLite  
 - **Tools:** Docker, Git, Kubernetes, Helm 
@@ -32,10 +32,3 @@
 - [LinkedIn](https://www.linkedin.com/in/giovanni-russo-669302210/)  
 - Email: giovanni2018russo@gmail.com
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniRusso2002&layout=compact&theme=radical" height="160" />
-</p>
